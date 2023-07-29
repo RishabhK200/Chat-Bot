@@ -40,7 +40,7 @@ let N_message = ""
 // Gets the first message
 function firstBotMessage() {
     let firstMessage = "Hi, how may I help you?"
-    let secondMessage = "Select the number from below"
+    let secondMessage = "Put your query number"
     let thirdMessage_1 = "1) Course registration and Enrollment "
     let thirdMessage_2 = "2) Campus facilities and Services "
     let thirdMessage_3 = "3) Class Schedules and Attendance Policies"
