@@ -152,8 +152,8 @@ function sendButton() {
     getResponse();
 }
 
-function heartButton() {
-    buttonSendText("Heart clicked!")
+function heaButton() {
+    buttonSendText("Clicked!")
 }
 
 // Press enter to send a message
